@@ -2,7 +2,7 @@ from mcstatus import MinecraftServer
 import nmap
 import socket
 import sys
-
+hah
 
 def fetch_hosts(startr, endr):
     found = []
